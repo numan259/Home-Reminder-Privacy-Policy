@@ -1,15 +1,44 @@
 Privacy Policy for Home Reminder
-Last updated: October 2025
-Location Data
-This app uses your device’s location only on-device to trigger reminders when you arrive at a saved place.
+Last Updated: October 2025
+
+1. Location Data
+
+Home Reminder uses your device’s location locally on your device to trigger reminders when you enter or exit a saved place.
 We do not collect, store, or transmit your location to any server.
-No Personal Data
-We do not ask for your name, email, or any personal information.
-All reminder text is stored locally on your phone.
-Ads & GDPR
-We use Google AdMob to show ads.
-Google may collect device identifiers and usage data for ad targeting.
-EEA users: you can reset or opt out of ad personalisation in device Settings → Google → Ads.
-Google’s policies: Google Privacy Policy | AdMob Policy
-Contact
-Questions? Email: numanraza259@gmail.com
+
+2. Personal Data
+
+We do not ask for or collect your name, email, or any personally identifiable information.
+All reminder text and app data are stored locally on your device.
+
+3. Third-Party Services (AdMob)
+
+The app uses Google AdMob to display ads.
+AdMob may collect information such as:
+
+Device identifiers (e.g., Advertising ID)
+
+App interaction data
+
+Ad performance data
+
+This data is collected by Google, not by us.
+
+Users in the EEA can manage or opt out of personalized ads through:
+Settings → Google → Ads.
+
+For more details, please see:
+
+Google Privacy Policy
+
+AdMob Policy
+
+4. Children’s Privacy
+
+This app is not directed to children under 13.
+We do not knowingly collect data from children.
+
+5. Contact
+
+If you have any questions, you can contact us at:
+numanraza259@gmail.com
