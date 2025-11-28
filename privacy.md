@@ -29,9 +29,9 @@ Settings → Google → Ads.
 
 For more details, please see:
 
-Google Privacy Policy
+Google Privacy Policy: https://policies.google.com/privacy
 
-AdMob Policy
+AdMob Policy: https://support.google.com/admob/answer/6128543
 
 4. Children’s Privacy
 
