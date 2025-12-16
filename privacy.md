@@ -1,5 +1,5 @@
 Privacy Policy for Location Reminder
-Last Updated: December 2025
+Last Updated: 17 December 2025
 
 1. Location Data
 
