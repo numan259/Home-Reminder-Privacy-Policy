@@ -1,4 +1,4 @@
-Privacy Policy for Home Reminder
+Privacy Policy for Location Reminder
 Last Updated: December 2025
 
 1. Location Data
@@ -21,9 +21,7 @@ Device identifiers (e.g., Advertising ID)
 
 App interaction data
 
-Ad performance data
-
-This data is collected by Google, not by us.
+Ad performance data This data is collected by Google, not by us.
 
 Users in the EEA can manage or opt out of personalized ads through:
 Settings → Google → Ads.
