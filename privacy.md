@@ -1,5 +1,5 @@
 Privacy Policy for Home Reminder
-Last Updated: October 2025
+Last Updated: December 2025
 
 1. Location Data
 
