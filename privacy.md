@@ -5,6 +5,7 @@ Last Updated: October 2025
 
 Home Reminder uses your device’s location locally on your device to trigger reminders when you enter or exit a saved place.
 We do not collect, store, or transmit your location to any server.
+Background location access is required so that reminders can function correctly even when the app is closed or not actively in use.
 
 2. Personal Data
 
